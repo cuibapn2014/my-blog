@@ -1,0 +1,16 @@
+.__box-search{
+    overflow: hidden;
+    min-width: 0;
+}
+
+.__mnu-float-out{
+    left:-100% !important;
+}
+
+.__fade-out{
+    opacity:0 !important;
+}
+
+.__z-hide{
+    z-index: -1 !important;
+}

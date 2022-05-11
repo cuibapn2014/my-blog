@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.__latest::after{
+    display: block;
+    content: '';
+    width: 3.5rem;
+    height: 1px;
+    background-color: darkgray;
+    margin: .4rem 0 0 0;
+}
